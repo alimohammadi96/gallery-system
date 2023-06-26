@@ -1,2 +1,2 @@
 # gallery-system
-secure gallery system with PHP, MySQL, and JavaScript
+Secure gallery system with PHP, MySQL, and JavaScript
